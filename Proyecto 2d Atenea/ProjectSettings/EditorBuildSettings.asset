@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CanvasMainMenu.unity
+    guid: a57f230030d2d584180c1d05eeb3ac98
+  - enabled: 1
+    path: Assets/Scenes/CanvasOpciones.unity
+    guid: c9b55142c110af441a2e5535c56ac6ac
+  - enabled: 1
+    path: Assets/Scenes/CanvasNivel.unity
+    guid: a3c4915d3281f9b4a845bba9aa961503
+  - enabled: 1
+    path: Assets/Scenes/Nivel1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Nivel2.unity
+    guid: 320f10b6a38569d449affa6829943c63
+  - enabled: 1
+    path: Assets/Scenes/Nivel3.unity
+    guid: d31ea7b2ddb4f824792dfd9c5fc627cb
+  - enabled: 1
+    path: Assets/Scenes/CanvasDesarrollador.unity
+    guid: 46ff64a0c2446714f89f87edd3beaf9c
+  - enabled: 1
+    path: Assets/Scenes/CanvasAyuda.unity
+    guid: 528588ba129190a4fb2c4a59f5010d5a
+  - enabled: 1
+    path: Assets/Scenes/CanvasFinal.unity
+    guid: fbb685d434f766b47a636d1efc066a83
+  m_configObjects: {}
